@@ -1,4 +1,4 @@
-# Deep Neural Network for Multiclass Classfication
+# Neural Network for Multiclass Classfication
 
 Author: Yang Lin
 
